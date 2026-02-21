@@ -23,3 +23,5 @@ So I would be happy if you are interested in my project.
 - Blog: https://antoolot.top
 
 ### Regular updates on recent developments 定期更新的近况
+
+近几个月将同时推进主站更新、WebGroove 和 HarmonyOS 应用开发。
